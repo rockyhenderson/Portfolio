@@ -1,28 +1,39 @@
-# SEO Enhancements for Portfolio Website
+# Content & Copywriting Enhancements for Portfolio Website
 
-## Overview
-This project improves the SEO performance of the portfolio website by implementing key on-page optimization techniques. The following enhancements have been made:
+## Branch: `CONTENT`
 
-## Changes Implemented
+This branch focuses on implementing **Outcome 3 (Information Architecture)** and **Outcome 4 (Web Copywriting)** for the portfolio website project.
 
-### 1. **Header Structure Improvement**
-- Used `<h1>`, `<h2>`, and `<h3>` elements to define a clear content hierarchy.
-- Ensured proper use of headings to improve content readability and SEO ranking.
+---
 
-### 2. **Keyword Optimization in Headers**
-- Included relevant keywords such as "Web Developer Portobello" and "Web Development Skills" in header tags.
-- Adjusted project titles to include descriptive keywords for better search visibility.
+## ✅ Changes Implemented
 
-### 3. **Meta Descriptions with Keywords**
-- Added concise meta descriptions (140-160 characters) for improved search engine ranking.
-- Included unique descriptions for the **Home** and **Contact** pages to improve relevance and keyword targeting.
+### 1. **Clear Section Structure**
+- Each section of the site (Home, About, Skills, Projects, Contact) is clearly labeled with HTML comments, e.g. `<!-- 1 - This is the about section -->`.
+- Logical order of content to guide the user journey from introduction to contact.
 
-## Example Meta Descriptions
-- **Home Page:** "Jack Henderson - Web Developer in Portobello. Expert in JavaScript, React, PHP, and MySQL. Building modern, responsive, and user-friendly websites."
-- **Contact Page:** "Contact Jack Henderson, Web Developer in Portobello. Get in touch for modern, responsive web development with JavaScript, React, PHP, and MySQL."
+### 2. **Web Copywriting Techniques**
+- Used **inviting and user-friendly language** throughout the site.
+- Applied **short paragraphs**, **headings**, and **bulleted elements** for easier scanning.
+- Tone is professional yet approachable to appeal to potential employers or clients.
 
-## Next Steps
-- Review performance improvements using SEO analysis tools.
-- Further optimize images and implement structured data for better search engine indexing.
+### 3. **Commercial & Content Sections**
+- **Commercial Section**: "Featured Projects" includes real-world examples (BeanBucks, Limelight Cinemas) with keyword-rich, benefit-focused descriptions.
+- **Content Section**: "About Jack Henderson" presents a concise biography and context for the viewer.
 
-This structured approach ensures better visibility and ranking for the portfolio site.
+### 4. **Home Page Enhancements**
+- Introduces who Jack is and what he offers as a developer.
+- Inviting call to action in the contact section.
+- Includes relevant terms like “Web Developer in Portobello” for clarity and SEO consistency.
+
+---
+
+## 📂 Files Modified
+- `index.html`: All content sections added with semantic HTML, copywriting, and IA strategies.
+- `README.md`: Documented changes made in this branch.
+
+---
+
+## 🔗 GitHub Repository
+https://github.com/rockyhenderson/Portfolio
+
